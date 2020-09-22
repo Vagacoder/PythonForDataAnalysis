@@ -1,6 +1,14 @@
 # Python for Data Analysis, 2nd Edition
 
-Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
+## Two Data Files are not included due to large size
+
+- datasets/fec/P00000001-ALL.scv
+- usda_food/database.json
+
+please download them from [here](https://github.com/wesm/pydata-book)
+
+
+#### Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
 published by O'Reilly Media
 
 [Buy the book on Amazon][1]
